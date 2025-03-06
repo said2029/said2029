@@ -1,5 +1,5 @@
 # 💫 About Me:
-A movie and series streaming website using Next.js, Prisma, MongoDB, and TMDB API. <br>Full-stack web development projects, especially in React.js, Next.js, and MERN stack.<br>Improving my English communication skills for better client interactions.  <br>- Advanced TypeScript  <br>- Prisma ORM   <br>React.js, Next.js, Tailwind CSS, Prisma, and API integrations.  <br>I extracted 10K movies from the internet using Puppeteer! 😄  
+I'm a Full-Stack Developer specializing in Next.js, React, GSAP, Three.js, Tailwind CSS, Nest.js, and Express.js, creating high-performance, visually stunning web experiences.
 
 
 ## 🌐 Socials:
